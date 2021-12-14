@@ -3,10 +3,7 @@ package xyz.enhorse.example.concurrency;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * @author <a href="mailto:go2amd@gmail.com">enhorse</a>
- *         17.01.2017
- */
+
 public class VolatileBehaviour {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(VolatileBehaviour.class);
